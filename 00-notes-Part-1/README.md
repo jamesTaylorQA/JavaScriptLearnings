@@ -15,3 +15,26 @@ Above three technologies work together to create websites
 
 Re-cap:
 linked a javaScript file to an XTML file, and ran it in the browser
+
+objects and primitives
+
+let me = {
+name: 'James'
+
+};
+
+primitives
+
+let firstName = "Jonas";
+let age = 30;
+
+7 primitive data types:
+
+    1. Number. Floating point numbers -> Used ofr decimals and integers let age = 23;
+    2. Strings: Sequence of characters -> Used for text let firstName = "James";
+    3. Boolean: Logical type that can only be true or false -> used for taking decisions let ageOfMajority = true;
+    ==============================================================================================================
+    4. undefined: Value taken by a variable that is not defined("empty value) let children;
+    5. Null: also means "empty value:
+    6. Symbol: value that is unique and cannot be changed
+    7. BigInt: Larger integers than the number type can hold
