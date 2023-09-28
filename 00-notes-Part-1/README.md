@@ -38,3 +38,20 @@ let age = 30;
     5. Null: also means "empty value:
     6. Symbol: value that is unique and cannot be changed
     7. BigInt: Larger integers than the number type can hold
+
+variables
+
+Store value is variables so that we can assign a value to the variable so that we can use it over and over
+
+let camelCase = firstName
+
+var (old way of declaring variables)
+let (declare variables that can change later)
+const (varaible that cannot be mutated like the birth year)
+
+basic operators
+
+operator basically allows us to transfer or combine values
+Math operator
+Assignment operator
+Comparison operators (produce boolean values)
