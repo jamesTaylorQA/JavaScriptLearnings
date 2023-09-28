@@ -30,7 +30,7 @@ let age = 30;
 
 7 primitive data types:
 
-    1. Number. Floating point numbers -> Used ofr decimals and integers let age = 23;
+    1. Number. Floating point numbers -> Used FOR decimals and integers let age = 23;
     2. Strings: Sequence of characters -> Used for text let firstName = "James";
     3. Boolean: Logical type that can only be true or false -> used for taking decisions let ageOfMajority = true;
     ==============================================================================================================
